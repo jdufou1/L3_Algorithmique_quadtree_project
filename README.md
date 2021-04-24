@@ -1,3 +1,3 @@
 # quadtree
 QuadTree implementation in c
-![plot](./img/nebuleuse.png)
+![alt text](https://github.com/jdufou1/quadtree/img/nebuleuse.png)
